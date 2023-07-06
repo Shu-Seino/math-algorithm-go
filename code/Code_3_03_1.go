@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Code_3_03_1() {
 	var N int
 	fmt.Scan(&N)
 
