@@ -5,7 +5,7 @@ import (
 	"math/rand"
 )
 
-func main() {
+func Code_3_05_1() {
 	N := 100 // N is the number of trials (change as needed)
 	M := 0
 
