@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func prob_3_4_4() {
+func Prob_3_4_4() {
 	var N int
 	fmt.Scan(&N)
 

@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-func prob_3_5_2() {
+func Prob_3_5_2() {
 	N := 1000000
 	M := 0
 
